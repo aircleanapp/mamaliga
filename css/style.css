@@ -8241,6 +8241,10 @@ h1, h2, h3, h4, h5,
     width: 100%;
     opacity: .3; }
 
+.slider-text h2 {
+  color: lawngreen;
+}
+
 .slider-text h1 {
   font-size: 64px;
   color: #fff;
